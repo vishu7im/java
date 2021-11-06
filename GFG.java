@@ -549,19 +549,19 @@ class GFG {
 		System.out.println("");
 		System.out.println("");
 
-		printN();
+		printF();
 		System.out.print("");
-		printE();
+		printU();
 		System.out.println("");
-		printE();
+		printC();
 		System.out.println("");
-		printL();
+		printK();
 		System.out.println("");
-		printA();
+		printY();
 		System.out.println("");
-		printM();
-		// System.out.println("");
-		// printU();
+		printO();
+		System.out.println("");
+		printU();
 
 	}
 }
