@@ -11,6 +11,6 @@ public class OddEven {
         } else {
             System.out.println(a + " is odd");
         }
-
+        // no way
     }
 }
