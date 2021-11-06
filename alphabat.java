@@ -1,6 +1,6 @@
 // Java implementation to print the
 // pattern of alphabets A to Z using *
-class GFG {
+class alphabat {
 
 	// Below height and width variable can be used
 	// to create a user-defined sized alphabet's pattern
@@ -565,4 +565,3 @@ class GFG {
 
 	}
 }
-
